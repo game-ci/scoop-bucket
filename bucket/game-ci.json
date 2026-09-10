@@ -1,12 +1,12 @@
 {
-    "version": "0.1.57",
+    "version": "0.1.58",
     "description": "CLI for building and testing games in CI (Unity, Godot, Unreal, Bevy)",
     "homepage": "https://game.ci",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/game-ci/cli/releases/download/v0.1.57/game-ci-windows-x64.zip",
-            "hash": "64a679602d641166b0686efd954303a6b85bfdaed87b20b4dbf975407b126cfa"
+            "url": "https://github.com/game-ci/cli/releases/download/v0.1.58/game-ci-windows-x64.zip",
+            "hash": "a708525d48d88a2baaf7be7ce3cce4083ef980c4223c5841ad7831be007dc007"
         }
     },
     "bin": "game-ci.exe",
